@@ -31,8 +31,8 @@ links:
   name: Follow
   url: https://twitter.com/eslibre
 url_code: "https://github.com/wizmik12/en-las-tripas-de-keras"
-url_pdf: "https://github.com/wizmik12/en-las-tripas-de-keras/blob/master/Destripando%20Keras%20Eslibre.pdf"
-url_slides: ""
+url_pdf: ""
+url_slides: "https://github.com/wizmik12/en-las-tripas-de-keras/blob/master/Destripando%20Keras%20Eslibre.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
