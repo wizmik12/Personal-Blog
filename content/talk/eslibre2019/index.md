@@ -16,15 +16,7 @@ all_day: false
 publishDate: "2019-04-01T00:00:00Z"
 
 authors: []
-tags: 
-- Computer Science
-- Mathematics
-- Neural Networks
-- Keras
-- Python
-- Free Software
-- Open Source
-
+tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
