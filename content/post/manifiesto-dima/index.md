@@ -39,7 +39,7 @@ Los  objetivos  específicos abarcan:
 
 Una de las primeras acciones llevadas a cabo por este grupo ha sido la elaboración de un manifiesto por la divulgación matemática, el cual ha sido publicado a fecha de 4 de Junio de 2018 y que os dejo a continuación:
 
-[Pdf del manifiesto](https://raw.githubusercontent.com/thebooort/thebooort.github.io/static/files/Manifiesto-DEF.pdf)
+[Pdf del manifiesto](https://raw.githubusercontent.com/thebooort/Personal-Blog/static/files/Manifiesto-DEF.pdf)
 
 ## ¿Cómo colaborar?
 
