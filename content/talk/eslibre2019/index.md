@@ -16,7 +16,15 @@ all_day: false
 publishDate: "2019-04-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: 
+- Computer Science
+- Mathematics
+- Neural Networks
+- Keras
+- Python
+- Free Software
+- Open Source
+
 # Is this a featured talk? (true/false)
 featured: false
 
@@ -25,6 +33,10 @@ image:
   focal_point: Right
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/eslibre
 url_code: "https://github.com/wizmik12/en-las-tripas-de-keras"
 url_pdf: "https://github.com/wizmik12/en-las-tripas-de-keras/blob/master/Destripando%20Keras%20Eslibre.pdf"
 url_slides: ""
