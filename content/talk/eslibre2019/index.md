@@ -63,6 +63,3 @@ math: true
 Click on the **Slides** button above to view the slides.
 {{% /alert %}}
 
-
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
