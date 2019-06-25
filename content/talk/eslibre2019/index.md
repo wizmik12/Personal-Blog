@@ -1,10 +1,10 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
-location: London, United Kingdom
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+title: Destripando a Keras
+event: esLibre Congress 
+event_url: https://eslib.re
+location: Granada, Spain
+summary: Visualización de redes neuronales.
+abstract: "Normalmente nos han enseñado que las redes neuronales convolucionales son muy buenas clasificando objetos, de hecho se podría decir que son excepcionales clasificando perros y gatos. Sin embargo, debido a la complejidad de estos modelos, su interpretabilidad es escasa y son conocidos como modelos de caja negra: solamente se conoce la entrada y la salida pero no qué ocurre dentro. En esta charla venimos dispuestos a dinamitar esta idea. Usando diversas librerías de aprendizaje automático, vamos explicar cual es el funcionamiento de estos modelos y entender su mecanismo gracias a distintas visualizaciones. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
