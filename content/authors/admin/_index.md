@@ -71,6 +71,6 @@ user_groups:
 - Researchers
 ---
 
-Bart Ortiz is a research at the Research Centre for Information and Communications Technologies of the University of Granada, where he study he PhD in AI and work in Stance4Health, an european research project that combines nutrition and artificial intelligence. 
+I am a researcher at the Research Centre for Information and Communications Technologies of the University of Granada, where I study a PhD in AI and work in Stance4Health, an european research project that combines nutrition and artificial intelligence. 
 
-When he is not working he spends time in his hobbies: Science Communication, Go (baduk), Trail running, martial arts and Amateur entomology.
+When I'm not working I spend my time in my hobbies: Science Communication, Go (baduk), Trail running, martial arts and Amateur entomology.
