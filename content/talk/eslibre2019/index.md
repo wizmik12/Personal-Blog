@@ -8,12 +8,12 @@ abstract: "Normalmente nos han enseñado que las redes neuronales convolucionale
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-06-21T10:15:00Z"
+date_end: "2019-06-21T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-04-04T00:00:00Z"
 
 authors: []
 tags: []
@@ -22,16 +22,16 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**esLibre**](https://eslib.re)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
+  url: https://twitter.com/eslibre
+url_code: "https://github.com/wizmik12/en-las-tripas-de-keras"
+url_pdf: "https://github.com/wizmik12/en-las-tripas-de-keras/blob/master/Destripando%20Keras%20Eslibre.pdf"
 url_slides: ""
 url_video: ""
 
